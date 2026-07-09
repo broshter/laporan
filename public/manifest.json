@@ -1,0 +1,19 @@
+{
+  "name": "Bendahara Cabang Sukoharjo",
+  "short_name": "App Cab. SKH",
+  "description": "Sistem Laporan Keuangan SURAN Otomatis Cabang Sukoharjo",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
